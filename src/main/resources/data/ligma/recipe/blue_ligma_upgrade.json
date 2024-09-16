@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "U": {
+      "item": "ligma:blue_ligma_upgrade"
+    },
+    "M": {
+      "item": "minecraft:mossy_stone_bricks"
+    },
+    "L": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "B": {
+        "item": "ligma:blue_ligma"
+    }
+  },
+    "pattern": [
+        "BUB",
+        "LML",
+        "BLB"
+    ],
+  "result": {
+    "id": "ligma:blue_ligma_upgrade",
+    "count": 2
+  }
+}
